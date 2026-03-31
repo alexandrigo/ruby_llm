@@ -1,0 +1,27 @@
+lib/ruby_llm/providers/anthropic/tools.rb
+  fb0db4f14f7f3b5b 72-89
+lib/ruby_llm/stream_accumulator.rb
+  fb0db4f14f7f3b5b 76,78-85,100-102
+spec/ruby_llm/stream_accumulator_spec.rb
+  fb0db4f14f7f3b5b 17-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.23",
+  "base_commit_sha": "bbf6d39b65b8c1d3a0590b76eb5ba6d2f4552ac4",
+  "prompts": {
+    "fb0db4f14f7f3b5b": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b61ac1b1-54b3-48ea-99cd-107eb702c3da",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "alexandrigo <alexandrigo@gmail.com>",
+      "messages": [],
+      "total_additions": 107,
+      "total_deletions": 3,
+      "accepted_lines": 107,
+      "overriden_lines": 0
+    }
+  }
+}
